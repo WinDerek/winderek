@@ -27,6 +27,6 @@ I'm a full-stack developer in Shanghai, China. I received B.Eng. degree from Ton
 - 🌱 I’m currently learning reinforcement learning, JavaScript (Vue.js, React.js and node.js).
 - 💬 Ask me about _anything you want to know about me_!
 - 📫 How to reach me:
-  - WeChat: <img src="./figure/wechat.png" width="600" alt="WeChat QR code" />
+  - WeChat: <img src="./wechat.jpg" width="100" alt="WeChat QR code" />
   - Email: frankderekdick@gmail.com, derekwangyi@163.com
 - ⚡ Fun fact: I once developed an innovative mobile keyboard APP for Chinese input with more than 8,000 users.
