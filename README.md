@@ -1,6 +1,12 @@
 ### Hi! This is Derek 👋
 
-I'm a full-stack developer in Shanghai, China. I received B.Eng. degree from Tongji University in 2019 and currently I'm pursuing the Master degree at SIST, ShanghaiTech University. I love open source and knowledge sharing. With the aim of self realization, I'm always interested in developing software systems which meet some pain points and make contribution to this world. If you have any interesting idea or pain point in your field, feel free to contact me!
+<img src="https://github-readme-stats.vercel.app/api?username=derekdick&count_private=true&show_icons=true" width="400" alt="DerekDick's GitHub Stats" />
+
+I'm a full-stack developer in Shanghai, China. I love open source and knowledge sharing. With the aim of self realization, I'm always interested in developing software systems which meet some pain points and make contribution to this world. If you have any interesting idea or pain point in your field, feel free to contact me!
+
+- Education:
+  - Undergraduate: Tongji University
+  - Graduate: ShanghaiTech University
 
 - ⚙ Some frameworks or technologies I have experience with:
 
