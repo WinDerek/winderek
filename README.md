@@ -29,4 +29,4 @@ I'm a full-stack developer in Shanghai, China. I received B.Eng. degree from Ton
 - 📫 How to reach me:
   - WeChat: <img src="./wechat.jpg" width="100" alt="WeChat QR code" />
   - Email: frankderekdick@gmail.com, derekwangyi@163.com
-- ⚡ Fun fact: I once developed an innovative mobile keyboard APP for Chinese input with more than 8,000 users.
+- ⚡ Fun fact: I once developed an innovative mobile keyboard APP for Chinese input used by more than 8,000 users.
