@@ -4,7 +4,11 @@
 
 I'm a full-stack developer in Shanghai, China. I love open source and knowledge sharing. With the aim of self realization, I'm always interested in developing software systems which meet some pain points and make contribution to this world. If you have any interesting idea or pain point in your field, feel free to contact me!
 
-- Education:
+- 📫 How to reach me:
+  - WeChat: <img src="./wechat.jpg" width="100" alt="WeChat QR code" />
+  - Email: frankderekdick@gmail.com, derekwangyi@163.com
+
+- 🏫 Education:
   - Undergraduate: Tongji University
   - Graduate: ShanghaiTech University
 
@@ -29,10 +33,6 @@ I'm a full-stack developer in Shanghai, China. I love open source and knowledge 
   - Arch Linux (for development only)
   - Windows 10 (for entertainment and Office only :upside_down_face:)
 
-- 🔭 I’m currently working on a new mind mapping tool.
-- 🌱 I’m currently learning reinforcement learning, JavaScript (Vue.js, React.js and node.js).
-- 💬 Ask me about _anything you want to know about me_!
-- 📫 How to reach me:
-  - WeChat: <img src="./wechat.jpg" width="100" alt="WeChat QR code" />
-  - Email: frankderekdick@gmail.com, derekwangyi@163.com
 - ⚡ Fun fact: I once developed an innovative mobile keyboard APP for Chinese input used by more than 8,000 users.
+- 🔭 I’m currently working on something cool. :wink:
+
