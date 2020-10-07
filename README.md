@@ -2,17 +2,17 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=derekdick&count_private=true&show_icons=true" width="400" alt="DerekDick's GitHub Stats" />
 
-I'm a full-stack developer in Shanghai, China. I love open source and knowledge sharing. With the aim of self realization, I'm always interested in developing software systems which meet some pain points and make contribution to this world. If you have any interesting idea or pain point in your field, feel free to contact me!
+我是一名全栈（干）工程师，坐标上海。我热爱开源和知识分享。在追求自我实现（self realization）的路上，我一直对开发软件系统非常感兴趣，特别是那些能够解决痛点并给这个世界创造价值的。如果你有任何有趣的想法或是某个领域的痛点，欢迎和我聊聊！
 
-- 📫 How to reach me:
-  - WeChat: <img src="./wechat.jpg" width="100" alt="WeChat QR code" />
-  - Email: frankderekdick@gmail.com, derekwangyi@163.com
+- 📫 联系方式：
+  - 微信（备注来意）：<img src="./wechat.jpg" width="100" alt="WeChat QR code" />
+  - 邮箱：frankderekdick@gmail.com, derekwangyi@163.com
 
-- 🏫 Education:
-  - Undergraduate: Tongji University
-  - Graduate: ShanghaiTech University
+- 🏫 教育：
+  - 本科：同济大学
+  - 硕士：上海科技大学
 
-- ⚙ Some frameworks or technologies I have experience with:
+- ⚙ 一些我使用过的框架和技术：
 
   - Frontend: Vue.js, React.js, webpack, jQuery, axios
   - Backend: Spring Boot, Express.js, django, Flask, ASP.NET
@@ -33,6 +33,6 @@ I'm a full-stack developer in Shanghai, China. I love open source and knowledge 
   - Arch Linux (for development only)
   - Windows 10 (for entertainment and Office only :upside_down_face:)
 
-- ⚡ Fun fact: I once developed an innovative mobile keyboard APP for Chinese input used by more than 8,000 users.
+- ⚡ Fun fact: 我开发过一个新型中文输入法 APP，有超过 8,000 个用户。
 - 🔭 I’m currently working on something cool. :wink:
 
