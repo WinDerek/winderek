@@ -1,6 +1,6 @@
 ### Hi! This is Derek 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=derekdick&count_private=true&show_icons=true" width="400" alt="DerekDick's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=neo-derek&count_private=true&show_icons=true" width="400" alt="Neo Derek's GitHub Stats" />
 
 我是一名全栈（干）工程师，坐标上海。我热爱开源和知识分享。在追求自我实现（self realization）的路上，我一直对开发软件系统非常感兴趣，特别是那些能够解决痛点并给这个世界创造价值的。如果你有任何有趣的想法或是某个领域的痛点，欢迎和我聊聊！
 
