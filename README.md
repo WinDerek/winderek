@@ -32,10 +32,10 @@
   - Game Development: Cocos2d-x
   - Design: Material Design, inkscape
 
-- 💻 I have three computers with different operation systems:
-  - macOS Catalina (main)
+- 💻 I have three computers with different operating systems:
+  - macOS Big Sur (main)
   - Arch Linux (for development only)
-  - Windows 10 (for entertainment and Office only :upside_down_face:)
+  - Windows 10 (for entertainment and Microsoft Office only :upside_down_face:)
 
 - ⚡ Fun fact: 我开发过一个新型中文输入法 APP，有超过 8,000 个用户。
 - 🔭 I'm currently working on something cool. :wink:
